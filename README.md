@@ -17,7 +17,12 @@
 
 ## 下载与安装
 
-从 [GitHub Releases](https://github.com/Kasugano-Soras/XPHelper/releases) 下载 APK，放入车机 Download 目录后打开安装。
+打开车辆的ADB功能。从 [GitHub Releases](https://github.com/Kasugano-Soras/XPHelper/releases) 下载 APK，放入车机 Download 目录后，在ADB窗口输入
+# 修改release.apk为下载的文件名
+```shell
+am start -n com.android.packageinstaller/.PackageInstallerActivity  -a android.intent.action.VIEW   -d "file:///sdcard/Download/release.apk"   -t "application/vnd.android.package-archive"   --user 0
+```
+车机会弹出确认安装选项 选择安装即可安装完成
 
 ## 兼容性
 
