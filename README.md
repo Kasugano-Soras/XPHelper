@@ -1,7 +1,7 @@
 # 鹏友助手（XPHelper）
 
 <div align="center">
-  <img src="icon_work/Logo.png" width="100" height="100" alt=XP-ApkHelper Logo">
+  <img src="icon_work/brand/about_logo.png" width="100" height="100" alt=XP-ApkHelper Logo">
   <h3>面向小鹏车机的安装包管理与文件传输工具。</h3>
 
   [![Version](https://img.shields.io/badge/version-2.0-1677ff.svg?style=flat-square)](#-当前版本)
