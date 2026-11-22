@@ -13,7 +13,6 @@
 - 管理车机 Download 目录中的 APK，并调用系统安装器完成安装。
 - 通过局域网网页从手机或电脑向车机传送 APK。
 - 提供车机调试入口、昼夜外观设置和 OTA 状态管理。
-- 在应用内检查 GitHub Release 更新。
 
 ## 下载与安装
 
@@ -21,8 +20,9 @@
 ```shell
 am start -n com.android.packageinstaller/.PackageInstallerActivity  -a android.intent.action.VIEW   -d "file:///sdcard/Download/XPHelper-2.0.apk"   -t "application/vnd.android.package-archive"   --user 0
 ```
-车机会弹出确认安装选项，安装后打开，根据提示授予ADB权限后即可使用
-
+车机会弹出确认安装选项
+<img width="2400" height="1200" alt="install-v22" src="https://github.com/user-attachments/assets/3e78bce9-8a5c-4151-b992-51d400f09049" />
+选择继续，安装完成后点击打开，根据提示授予ADB权限后即可使用。
 ## 兼容性
 
 软件在小鹏 P7（SA8295P）焕芯版上测试通过，车机软件版本为天玑XOS 5.10.6.8902
