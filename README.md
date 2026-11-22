@@ -21,7 +21,7 @@
 ```shell
 am start -n com.android.packageinstaller/.PackageInstallerActivity  -a android.intent.action.VIEW   -d "file:///sdcard/Download/XPHelper-2.0.apk"   -t "application/vnd.android.package-archive"   --user 0
 ```
-车机会弹出确认安装选项 选择安装即可安装完成
+车机会弹出确认安装选项，安装后打开，根据提示授予ADB权限后即可使用
 
 ## 兼容性
 
