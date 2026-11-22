@@ -10,9 +10,9 @@
 
 ## 功能
 
-查看安装和删除下载目录里的APK；也支持从手机或电脑网页上传APK  
-车辆车机界面，支持夜间黑夜模式自动切换  
-集成车机调试模式、检查模式、大屏诊断模式，并实时显示ADB、TCP和OTA状态。可发光或恢复OTA更新  
+- 查看安装和删除下载目录里的APK；也支持从手机或电脑网页上传APK  
+- 车辆车机界面，支持夜间黑夜模式自动切换  
+- 集成车机调试模式、检查模式、大屏诊断模式，并实时显示ADB、TCP和OTA状态。可发光或恢复OTA更新  
 
 <img width="2400" height="1200" alt="screenshot-202611220303" src="https://github.com/user-attachments/assets/daf99c5a-4295-4b13-b1f7-bb848b96a91b" />  
 
