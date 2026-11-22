@@ -1,8 +1,12 @@
 # 鹏友助手（XPHelper）
 
-鹏友助手是面向小鹏 P7 车机的安装包管理与文件传输工具。当前应用包名为 `com.Sora.XPHelper`，显示版本为 **2.0**。
+<div align="center">
+  <img src="icon_work/Logo.png" width="100" height="100" alt=XP-ApkHelper Logo">
+  <h3>面向小鹏车机的安装包管理与文件传输工具。</h3>
 
-项目地址：[Kasugano-Soras/XPHelper](https://github.com/Kasugano-Soras/XPHelper)
+  [![Version](https://img.shields.io/badge/version-2.0-1677ff.svg?style=flat-square)](#-当前版本)
+  [![License](https://img.shields.io/badge/license-GPL--3.0-green.svg?style=flat-square)](LICENSE)
+</div>
 
 ## 功能
 
@@ -17,4 +21,4 @@
 
 ## 兼容性
 
-主要在小鹏 P7（SA8295P）车机上验证。使用调试入口或安装第三方 APK 前，请确认你了解相关操作并自行承担风险。
+软件主要是在小鹏 P7（SA8295P）车机上验证的第三方工具，与小鹏官方无关。使用调试入口或安装第三方 APK 前，请确认你了解相关操作并自行承担风险，改动车机行为（含调试授权、安装第三方应用）有一定风险，后果自行承担。
