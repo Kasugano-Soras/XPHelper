@@ -18,7 +18,6 @@
 ## 下载与安装
 
 打开车辆的ADB功能。从 [GitHub Releases](https://github.com/Kasugano-Soras/XPHelper/releases) 下载 APK，放入车机 Download 目录后，在ADB窗口输入
-### 修改XPHelper-2.0.apk为下载的文件名
 ```shell
 am start -n com.android.packageinstaller/.PackageInstallerActivity  -a android.intent.action.VIEW   -d "file:///sdcard/Download/XPHelper-2.0.apk"   -t "application/vnd.android.package-archive"   --user 0
 ```
