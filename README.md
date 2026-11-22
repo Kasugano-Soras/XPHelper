@@ -34,7 +34,8 @@ am start -n com.android.packageinstaller/.PackageInstallerActivity  -a android.i
 
 ## 兼容性  
 
-软件在小鹏 P7（SA8295P）焕芯版上测试通过，车机软件版本为天玑XOS 5.10.6.8902
+软件在小鹏 P7（SA8295P）焕芯版上测试通过，车机软件版本为天玑XOS 5.10.6.8902  
+
 理论上支持所有搭载天玑XOS 5系统的大屏使用  
 
 ## 免责声明  
