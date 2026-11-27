@@ -7,7 +7,7 @@
   [![Version](https://img.shields.io/badge/version-2.0-1677ff.svg?style=flat-square)](#-当前版本)
   [![License](https://img.shields.io/badge/license-GPL--3.0-green.svg?style=flat-square)](LICENSE)
 </div>
-[test]([https://github.com/Kasugano-Soras/XPHelper/releases](https://kasugano-soras.github.io/XPHelper/))
+[test](https://kasugano-soras.github.io/XPHelper/)
 ## 功能
 
 - 查看安装和删除下载目录里的APK；也支持从手机或电脑网页上传APK  
