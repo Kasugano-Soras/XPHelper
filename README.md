@@ -27,6 +27,7 @@
 ```shell
 am start -n com.android.packageinstaller/.PackageInstallerActivity  -a android.intent.action.VIEW   -d "file:///sdcard/Download/XPHelper-2.0.apk"   -t "application/vnd.android.package-archive"   --user 0
 ```
+> `file:///sdcard/Download/XPHelper-2.0.apk` 部分替换成实际上文件所在的位置。
 车机会弹出确认安装选项  
 
 <img width="2400" height="1200" alt="install-v22" src="https://github.com/user-attachments/assets/3e78bce9-8a5c-4151-b992-51d400f09049" />  
